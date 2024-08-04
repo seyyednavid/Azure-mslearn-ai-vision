@@ -1,5 +1,5 @@
-$account_id="YOUR_ACCOUNT_ID"
-$api_key="YOUR_API_KEY"
+$account_id="7d4732d8-0e8a-4b8d-8d94-174eda25e???"
+$api_key="7631f66f3eb1450099d4850b7ac95e6b"
 $location="trial"
 
 # Call the AccessToken method with the API key in the header to get an access token
